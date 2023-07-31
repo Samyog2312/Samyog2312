@@ -1,9 +1,5 @@
-### Hi there 👋
+![banner](https://github.com/Samyog2312/Samyog2312/assets/55477993/e2b2b800-5abb-4a9c-862d-d00a097ec7c2)
 
-<!--
-**Samyog2312/Samyog2312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
