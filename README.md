@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on a React website for a hobby project of mine.
-- 🌱 I’m currently learning javascript, React, node.js, and cloud computing certifications.
+- 🌱 I’m learning javascript, React, node.js, and cloud computing.
 - 👯 I’m looking to collaborate on web programming projects.
 - 🤔 I’m actively looking for an entry-level IT job.
 - 📫 You can reach me @: advin61@gmail.com
