@@ -6,3 +6,4 @@
 - 👯 I’m looking to collaborate on web programming projects.
 - 🤔 I’m actively looking for an entry-level information technology job.
 - 📫 You can reach me @: advin61@gmail.com
+![Samyog's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
