@@ -6,6 +6,3 @@
 - 👯 I’m looking to collaborate on web programming projects.
 - 🤔 I’m actively looking for an entry-level information technology job.
 - 📫 You can reach me @: advin61@gmail.com
-
-- 
-
